@@ -8,7 +8,7 @@
   "server": {
     "ip": "braydenchen.aternos.me",
     "port": 26425,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
